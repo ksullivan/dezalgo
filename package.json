@@ -7,11 +7,11 @@
     "test": "test"
   },
   "dependencies": {
-    "asap": "^1.0.0",
+    "asap": "1.0.0",
     "wrappy": "1"
   },
   "devDependencies": {
-    "tap": "^0.4.11"
+    "tap": "0.4.11"
   },
   "scripts": {
     "test": "tap test/*.js"
